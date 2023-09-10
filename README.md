@@ -43,4 +43,4 @@ A MD co-founder thinks it is time to launch MD and has decided to promote MD pri
 3. Model evaluation
    - Plot and compare ROC Curve and Precision-Recall Curve for all the models
    - Choose logistic regression for submission (ROC score of logistic regression classifier: `0.65`)
-4. Presentation slide can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vTAwepeWr0ou0yx4GNQ9_ycLWh3qtcJbBIBxBGEjjvvMRRkALXtzIsGz1fE_y1CCsUQBZrQU99o3TJb/pub?start=false&loop=false&delayms=3000&slide=id.p12).
+4. Presentation slide can be found [here](https://docs.google.com/presentation/d/1X3vM8cSvKmFOGpHkDk6TGmq7L066b_DJ/edit#slide=id.p1).
