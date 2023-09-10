@@ -44,10 +44,3 @@ A MD co-founder thinks it is time to launch MD and has decided to promote MD pri
    - Plot and compare ROC Curve and Precision-Recall Curve for all the models
    - Choose logistic regression for submission (ROC score of logistic regression classifier: `0.65`)
 4. Presentation slide can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vTAwepeWr0ou0yx4GNQ9_ycLWh3qtcJbBIBxBGEjjvvMRRkALXtzIsGz1fE_y1CCsUQBZrQU99o3TJb/pub?start=false&loop=false&delayms=3000&slide=id.p12).
-5. [Tableau Visualization](https://public.tableau.com/app/profile/ling.xiang.zou/viz/Mortgagedefaultvisualization/Dashboard1?publish=yes)
-    - A representation of the map of the BC and the color gradient gives us the default counts for individual FSA.
-    - Customers' credit score distribution
-    - Default rate by property type
-    - Scatter plot of TDS vs. Loan size
-    
-<img src="images/Tableau_viz.png" width="1000px">
