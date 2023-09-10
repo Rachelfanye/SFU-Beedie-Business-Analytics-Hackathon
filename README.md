@@ -3,6 +3,8 @@
 
 Details of the competition can be found [here](https://beediehackathon.bus.sfu.ca/files/2020HackathonCase20201114.pdf).
 
+Presentation slides can be found [here](https://docs.google.com/presentation/d/1X3vM8cSvKmFOGpHkDk6TGmq7L066b_DJ/edit#slide=id.p1).
+
 ## Background: 
 In order to address the challenges with buying a home during the pandemic, Mortgage Direct (MD), a fintech startup is looking to offer mortgages exclusively online via their secure website requiring no in-person interactions at all. A customer can submit its mortgage application to MD and receive the approval decision with the mortgage rate offer within six hours. MD is backed and supported by a venture capital group called VC Partners. Specializing in fintech, VC Partners has developed the lending algorithm for MD to automate each mortgage approval decision.
 
@@ -22,7 +24,7 @@ A MD co-founder thinks it is time to launch MD and has decided to promote MD pri
 
 <img src="images/mg.png" width="1000px">
 
-## Approach:
+## Approaches:
 1. Data Cleaning
     - Merging two datasets
     - Feature engineering
@@ -43,4 +45,3 @@ A MD co-founder thinks it is time to launch MD and has decided to promote MD pri
 3. Model evaluation
    - Plot and compare ROC Curve and Precision-Recall Curve for all the models
    - Choose logistic regression for submission (ROC score of logistic regression classifier: `0.65`)
-4. Presentation slide can be found [here](https://docs.google.com/presentation/d/1X3vM8cSvKmFOGpHkDk6TGmq7L066b_DJ/edit#slide=id.p1).
